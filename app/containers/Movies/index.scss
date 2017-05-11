@@ -1,0 +1,19 @@
+.list-value {
+	border-bottom: 1px solid #ddd;
+	.item-img-container {
+		width: 100px;
+		height: 148px;
+	}
+	.movie-content {
+		padding: 20px 0 0 120px;
+		.movieName {
+			height: 30px;
+			span {
+				line-height: 26px;
+			}
+		}
+	}
+	.hidden {
+		display: none;
+	}
+}

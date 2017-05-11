@@ -1,0 +1,22 @@
+.moviesdes {
+	margin: 5px auto;
+    width: 300px;
+    .bigImg{
+    	padding-top: 10px;
+    }
+    .rating,.genres{
+    	line-height: 28px;
+    }
+    .directors,.casts {
+    	p {
+    		padding-left: 43px;
+    		padding-top: 10px;
+    		img {
+    			vertical-align: middle;
+    		}
+    		span {
+    			padding-left: 20px;
+    		}
+    	}
+    }
+}
